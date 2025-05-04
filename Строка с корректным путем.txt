@@ -1,0 +1,2 @@
+cd "C:/Users/glebl/OneDrive/Рабочий стол/GitHub/tic-tac-toe/FrontTest/tic-tac-toe"
+
